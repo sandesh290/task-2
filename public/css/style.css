@@ -1,0 +1,15 @@
+form{
+			background-color: blue;
+			border: dotted;
+			text-align: center;
+		}
+form input
+{
+	color: red;
+	font-size: 16px;
+}
+
+form label
+{
+	color: yellow;
+}
